@@ -21,7 +21,7 @@ This project focuses on responsive layouts, Flexbox, image manipulation using pu
 
 ## Live Demo
 
-- Live Site: [https://your-live-site-url.com](https://juansanchezzzzz.github.io/Stats-preview-card-component/)
+- Live Site: [live demo](https://juansanchezzzzz.github.io/Stats-preview-card-component/)
 - Frontend Mentor Challenge: https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62
 
 ---
